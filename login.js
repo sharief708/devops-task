@@ -1,4 +1,4 @@
-// Trigger CI pipeline again
+// CI trigger test
 function login(username, password) {
   if (username === "admin" && password === "1234") {
     return "Login successful";
