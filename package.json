@@ -1,0 +1,21 @@
+{
+  "name": "devops-task",
+  "version": "1.0.0",
+  "description": "realtime task",
+  "main": "login.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sharief708/devops-task.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/sharief708/devops-task/issues"
+  },
+  "homepage": "https://github.com/sharief708/devops-task#readme"
+}
